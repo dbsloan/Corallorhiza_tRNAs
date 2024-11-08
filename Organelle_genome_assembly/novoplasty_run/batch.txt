@@ -1,0 +1,6 @@
+CM_1A
+CM_1A.R1.trim.fq
+CM_1A.R2.trim.fq
+CM_2A
+CM_2A.R1.trim.fq
+CM_2A.R2.trim.fq

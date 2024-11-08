@@ -1,0 +1,77 @@
+﻿Node,Start,End,Gene,Notes,Scaffold,ContigNum,Length
+NODE_2_length_57943_cov_64.435617,4477,4549,trnC-GCA-bact,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,14631,14573,nad1 (exon4),,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,16122,15478,mttB,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,16753,17103,rps13,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,17912,19353,nad1 (exons2-3),,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,34312,34383,trnQ-TTG-cp,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,40615,40238,rps12,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,41058,40660,nad3,,Scaffold2,2,57943
+NODE_2_length_57943_cov_64.435617,45635,54525,nad4,3' end duplicated within likely misassembly in side node,Scaffold2,2,57943
+NODE_3_length_45665_cov_62.331747,6063,8044,rrn18,,Scaffold3,3,45665
+NODE_3_length_45665_cov_62.331747,8160,8277,rrn5,,Scaffold3,3,45665
+NODE_3_length_45665_cov_62.331747,18522,18594,trnC-GCA-cp,,Scaffold3,3,45665
+NODE_3_length_45665_cov_62.331747,26017,26088,trnE-TTC-native,,Scaffold3,3,45665
+NODE_3_length_45665_cov_62.331747,27679,33464,nad7,,Scaffold3,3,45665
+NODE_3_length_45665_cov_62.331747,33606,33679,trnI-CAT-cp,,Scaffold3,3,45665
+NODE_4_length_37369_cov_59.438897,23068,23292,atp9,,Scaffold4,4,37369
+NODE_4_length_37369_cov_59.438897,23567,24013,rps7,,Scaffold4,4,37369
+NODE_4_length_37369_cov_59.438897,25067,25139,trnK-TTT-native,,Scaffold4,4,37369
+NODE_5_length_29163_cov_69.557716,9485,9412,trnI-CAT-native,,Scaffold5,5,29163
+NODE_5_length_29163_cov_69.557716,10210,10283,trnD-GTC-native,,Scaffold5,5,29163
+NODE_5_length_29163_cov_69.557716,11979,11908,trnN-GTT-cp,,Scaffold5,5,29163
+NODE_5_length_29163_cov_69.557716,12831,13589,nad6,3' extension?,Scaffold5,5,29163
+NODE_6_length_26066_cov_68.569913,11770,11847,trnY-GTA-cp,,Scaffold6,6,26066
+NODE_6_length_26066_cov_68.569913,16002,14287,ccmFn,,Scaffold6,6,26066
+NODE_6_length_26066_cov_68.569913,17633,16104,atp1,,Scaffold6,6,26066
+NODE_7_length_24149_cov_47.484768,7775,7847,trnM-CAT-cp,,Scaffold7,7,24149
+NODE_7_length_24149_cov_47.484768,16653,19729,rpl2,,Scaffold7,7,24149
+NODE_7_length_24149_cov_47.484768,20029,23268,rps3,,Scaffold7,7,24149
+NODE_7_length_24149_cov_47.484768,19733,20014,rps19,,Scaffold7,7,24149
+NODE_8_length_22704_cov_88.064859,37,110,trnI-CAT-cp,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,324,6380,Fungal HGT,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,394,324,trnG-TCC-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5039,4951,trnS-GCT-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5084,5157,trnK-TTT-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5249,5179,trnQ-TTG-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5382,5312,trnT-TGT-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5468,5397,trnE-TTC-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,5617,5545,trnM-CAT-fungal,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,9140,9751,rps1,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,13235,13163,trnF-GAA-cp,,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,19363,18500,rps2,partial?,Scaffold8,8,22704
+NODE_8_length_22704_cov_88.064859,20833,21870,rps4,,Scaffold8,8,22704
+NODE_9_length_21924_cov_58.082445,7292,6570,ccmC,,Scaffold9,9,21924
+NODE_10_length_21865_cov_77.635076,1386,4810,rrn26,approximate ends,Scaffold10,10,21865
+NODE_10_length_21865_cov_77.635076,4929,5002,trnfM-CAT-native,,Scaffold10,10,21865
+NODE_11_length_21003_cov_58.862994,1363,3633,nad5 (exons1-2),,Scaffold11,11,21003
+NODE_11_length_21003_cov_58.862994,18179,17382,cox3,,Scaffold11,11,21003
+NODE_12_length_20939_cov_60.597778,4221,3141,rps10,,Scaffold12,12,20939
+NODE_12_length_20939_cov_60.597778,16088,11555,nad2 (exons1-3),,Scaffold12,12,20939
+NODE_12_length_20939_cov_60.597778,16732,16650,trnY-GTA-native,,Scaffold12,12,20939
+NODE_13_length_18954_cov_67.283401,1566,3401,cox2,,Scaffold13,13,18954
+NODE_13_length_18954_cov_67.283401,6910,6982,trnT-TGT-cp,,Scaffold13,13,18954
+NODE_13_length_18954_cov_67.283401,8323,8236,trnS-GCT-cp,,Scaffold13,13,18954
+NODE_14_length_18603_cov_64.764018,2951,1497,nad5 (exons4-5),,Scaffold14,14,18603
+NODE_14_length_18603_cov_64.764018,9434,9050,nad1 (exon1),,Scaffold14,14,18603
+NODE_15_length_18426_cov_67.774754,16854,17720,atp6,,Scaffold15,15,18426
+NODE_15_length_18426_cov_67.774754,17978,18051,trnI-CAT-cp,,Scaffold15,15,18426
+NODE_16_length_18142_cov_70.883231,6720,8303,cox1,,Scaffold16,16,18142
+NODE_17_length_16587_cov_52.682616,1800,1213,atp4,,Scaffold17,17,16587
+NODE_17_length_16587_cov_52.682616,2218,1916,nad4L,,Scaffold17,17,16587
+NODE_17_length_16587_cov_52.682616,3044,2562,atp8,,Scaffold17,17,16587
+NODE_17_length_16587_cov_52.682616,8297,7725,nad9,,Scaffold17,17,16587
+NODE_17_length_16587_cov_52.682616,8869,8797,trnF-GAA-cp,,Scaffold17,17,16587
+NODE_17_length_16587_cov_52.682616,9474,9547,trnW-CCA-cp,,Scaffold17,17,16587
+NODE_18_length_15957_cov_64.582442,11287,11307,nad5 (exon3),,Scaffold18,18,15957
+NODE_19_length_13734_cov_62.887565,7073,6453,ccmB,,Scaffold19,19,13734
+NODE_19_length_13734_cov_62.887565,10240,10168,trnN-GTT-cp,,Scaffold19,19,13734
+NODE_20_length_13468_cov_53.388802,8135,10273,matR,,Scaffold20,20,13468
+NODE_20_length_13468_cov_53.388802,10697,10955,nad1 (exon5),,Scaffold20,20,13468
+NODE_28_length_9743_cov_64.564306,3292,969,ccmFc,,Scaffold28,28,9743
+NODE_28_length_9743_cov_64.564306,9654,9581,trnH-GTG-cp,,Scaffold28,28,9743
+NODE_35_length_8059_cov_52.278236,2763,3922,nad2 (exons4-5),,Scaffold35,35,8059
+NODE_39_length_7776_cov_75.331434,2525,2595,trnC-GCA-native,,Scaffold39,39,7776
+NODE_39_length_7776_cov_75.331434,3629,4180,rpl5,,Scaffold39,39,7776
+NODE_39_length_7776_cov_75.331434,5447,6628,cob,,Scaffold39,39,7776
+NODE_46_length_7125_cov_59.914003,1035,1114,trnL-TAG-cp,,Scaffold46,46,7125
