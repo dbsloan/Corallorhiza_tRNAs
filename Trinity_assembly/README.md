@@ -1,6 +1,6 @@
 # Trinity_assembly
 
-Shell script for trimming rRNA-depleted RNA-seq reads and assembling them with Trinity.
+Transcriptome assembly script and identified sequences
 
 - `trinity_run.sh`: Shell script for trimming rRNA-depleted RNA-seq reads and assembling them with Trinity.
 - `Enzyme_seqs.nt.fas`: Nucleotide sequences for identified transcripts encoding enzymes involved in charging tRNA-Gln and tRNA-Met.
