@@ -8,8 +8,8 @@ The main workflow for read processing, mapping, and classification of tRNAs is d
 
 ## Raw Data Availability
 
-Raw sequencing data can be found on NCBI SRA (BioProject to be posted soon).
+Raw sequencing data can be found on [NCBI SRA BioProject PRJNA1186809](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1186809).
 
 ## Reference
 
-This study will be reported in a forthcoming preprint.
+Warren, JM, Ceriotti, LF, Sanchez-Puerta MV, Sloan DB. [Fungal-derived tRNAs are expressed and aminoacylated in orchid mitochondria](https://www.biorxiv.org/content/10.1101/2024.11.19.624230v1). bioRxiv preprint
